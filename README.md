@@ -21,7 +21,7 @@
  
  🌱 Currently learning **AWS, Linux, Terraform, Docker, Solutions Engineering**
 
-💬 Ask me about **Cloud engineering & security, Iac, YAML, JSON, Program management, GRC... or anything [here](https://github.com/chinapheobe/chinagpheobe/issues)**
+💬 Ask me about **Cloud engineering & security, Iac, YAML, JSON, Program management, GRC... or anything
 
 ⚡ Fun fact: **iProduce music, iWrite songs, iLove sports and creating video content**
 
