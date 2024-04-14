@@ -9,9 +9,7 @@
 </h1>
 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200458926@N02" title=""><img src="https://live.staticflickr.com/65535/53652298988_e238df0ba0_c.jpg" width="1100" height="350" alt=""/></a>
-
-
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200458926@N02/53652639398/in/dateposted-public/" title="Curiosity Vs Creativity"><img src="https://live.staticflickr.com/65535/53652639398_a47c366d0d_o.png" width="951" height="415" alt="Curiosity Vs Creativity"/></a>
 
 <h4 align="center">I'm passionate about all things technology i.e. Cloud, AI, Virtualization.... I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h4>
 
