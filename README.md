@@ -63,19 +63,15 @@
 <br/><br/>
 
 
-
-
-
-
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### Decoding Software Architecture [here](https://github.com/ChinaPheobe/Decoding-Monolithic-Microservices-and-Serverless-Designs./tree/main)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200458926@N02/53652696004/in/dateposted-public/" title="System Architectural marvels"><img src="https://live.staticflickr.com/65535/53652696004_f6b57b4fb5_n.jpg" width="320" height="313" alt="System Architectural marvels"/>
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+Explore the ins and outs of Monolithic, Microservices, and Serverless designs, helping you make savvy decisions when building scalable and sustainable applications. With AWS services and Excalidraw for architectural blueprints, this project highlights my ability to break down complex concepts and guide informed choices in software development for enhanced scalability, maintainability, and efficiency. You can check out the repository [here](https://github.com/ChinaPheobe/Decoding-Monolithic-Microservices-and-Serverless-Designs./tree/main)
 
-### Recipe Managment Systems [here](https://github.com/ChinaPheobe/Recipe-Managment-System/tree/main).
+### Recipe Managment Systems [here](https://github.com/ChinaPheobe/Recipe-Managment-System/tree/main)
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200458926@N02/53652501748/in/dateposted-public/" title="Recipe Managment System"><img src="https://live.staticflickr.com/65535/53652501748_7069c3260f_n.jpg" width="320" height="320" alt="Recipe Managment System"/></a>
 
