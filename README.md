@@ -23,7 +23,7 @@
 
 💬 Ask me about **Cloud engineering & security, Iac, YAML, JSON, Program management, GRC... or anything
 
-⚡ Fun fact: **iProduce music, iWrite songs, iLove sports and creating video content**
+⚡ Fun fact: **iProduce music, iWrite songs, iLove sports and create video content**
 
  </div>
  
